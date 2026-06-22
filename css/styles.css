@@ -10927,12 +10927,12 @@ hr.divider-light {
 }
 
 header.masthead {
-  padding-top: 10rem;
-  padding-bottom: calc(10rem - 4.5rem);
-background-image: url("../assets/img/title_2.png");
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background-image: url("/assets/img/title_2.png") !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 header.masthead h1, header.masthead .h1 {›
   font-size: 2.25rem;

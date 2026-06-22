@@ -11201,13 +11201,3 @@ body {
 .footer {
   padding: 5rem 0;
 }
-.portfolio-box img {
-    width: 100%;
-    height: 350px;
-    object-fit: contain;
-    background-color: #f8f8f8;
-}
-
-#portfolio .p-4 {
-    min-height: 220px;
-}

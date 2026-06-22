@@ -7,6 +7,5 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 yourname@gmail.com  
-- 🌐 [GitHub](https://github.com/yourusername)  
-- 📍 Based in Japan  
+- 📧 siah.thach@temple.edu
+ 
